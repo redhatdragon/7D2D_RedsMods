@@ -1,0 +1,1 @@
+xcopy /s .\ModBase\bin\release\ModBase.dll .\ /Y
